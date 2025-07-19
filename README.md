@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Xana Rahmani</h1>
-<h3 align="center">Co-Founder & Blockchain Expert building the future of decentralized finance.</h3>
+<h3 align="center">Co-Founder & Blockchain Engineer building the future of decentralized finance.</h3>
 
 ---
 
